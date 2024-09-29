@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroToControlEvents2", "IntroToControlEvents2\IntroToControlEvents2.csproj", "{8836989E-EF37-4F19-B439-9A5AD5442B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8836989E-EF37-4F19-B439-9A5AD5442B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8836989E-EF37-4F19-B439-9A5AD5442B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8836989E-EF37-4F19-B439-9A5AD5442B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8836989E-EF37-4F19-B439-9A5AD5442B76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26A0FE08-85A6-49D2-BCC3-FC4BB1A57DCD}
+	EndGlobalSection
+EndGlobal
